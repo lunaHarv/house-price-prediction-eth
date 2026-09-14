@@ -94,6 +94,8 @@ st.markdown("""
     <div class="hero-container">
         <div class="hero-title">🏡 Ethiopian Real Estate Valuation Engine</div>
         <div class="hero-subtitle">Interactive Multivariate Price Estimation for Residential Properties</div>
+        <div class="hero-subtitle">made by Nebyu Ansar with passion</div>
+        
     </div>
 """, unsafe_allow_html=True)
 
